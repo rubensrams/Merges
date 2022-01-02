@@ -1,8 +1,7 @@
-package paquete2;
+package paquete4;
 
 public class Inicio {
 
-	
 	//Mi corazon lloro y eslla no nontesto
 	//Con quien estesss
 	//se sgrega el cambio del sds
@@ -12,6 +11,7 @@ public class Inicio {
 	//AI
 	//Ivan azul tambien
 	//CAMBIO DE PUTAS
-	//Cambio ruben cambio ruben
+
+
 }
 
