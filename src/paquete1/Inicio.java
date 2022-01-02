@@ -5,5 +5,7 @@ public class Inicio {
 	//se sgrega el cambio del sds
 	//Cambio de agrega el buki
 	//Carga de controlador
+	
+	//Kabuki
 
 }
