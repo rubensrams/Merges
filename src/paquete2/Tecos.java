@@ -1,4 +1,4 @@
-package paquete1;
+package paquete2;
 
 public class Tecos {
 

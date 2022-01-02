@@ -1,6 +1,6 @@
-package paquete1;
+package paquete2;
 
-public class CmiloSexto {
+public class Santos {
 
 	//se sgrega el cambio del sds
 	//Cambio de agrega el buki

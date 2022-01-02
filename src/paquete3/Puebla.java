@@ -1,4 +1,4 @@
-package paquete1;
+package paquete3;
 
 public class Puebla {
 
