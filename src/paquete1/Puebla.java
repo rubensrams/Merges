@@ -1,6 +1,6 @@
 package paquete1;
 
-public class Inicio {
+public class Puebla {
 
 	//se sgrega el cambio del sds
 	//Cambio de agrega el buki
