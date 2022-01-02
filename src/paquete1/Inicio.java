@@ -3,10 +3,7 @@ package paquete1;
 public class Inicio {
 
 	//se sgrega el cambio del sds
-	//Cambio de agrega el buki
-	//Carga de controlador
-	//Chuiqilla bonit
-	//Mi corazon lloro
+	//Paco gabriel de anda
 
 }
 
