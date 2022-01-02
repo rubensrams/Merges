@@ -2,7 +2,7 @@ package paquete2;
 
 public class Inicio {
 
-	
+	//s
 	//Mi corazon lloro y eslla no nontesto
 	//Con quien estesss
 	//se sgrega el cambio del sds
