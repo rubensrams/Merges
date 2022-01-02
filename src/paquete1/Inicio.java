@@ -2,7 +2,7 @@ package paquete1;
 
 public class Inicio {
 
-	//Depuracion toño
+	//Depuracion toño paquete 1
 
 
 }
