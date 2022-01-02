@@ -12,6 +12,6 @@ public class Inicio {
 	
 	//CAMBIO DE PUTAS
 
-
+	//CAMBIO DE PUTAS2
 }
 
